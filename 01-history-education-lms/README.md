@@ -1,4 +1,4 @@
-# 01. 중등 역사 교육 웹사이트(History Education LMS)
+# 01. 역사 한 걸음(History Education LMS)
 
 ## 프로젝트 개요
 중학교 학생들을 위한 온라인 역사 교육 콘텐츠를 제공하는 웹사이트입니다.  
